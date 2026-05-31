@@ -65,7 +65,7 @@ public static void main(String[] args) {
     }
     else
          System.out.println("Test Failed");
-         //driver.close();
+         driver.close();
   }
 }
 
